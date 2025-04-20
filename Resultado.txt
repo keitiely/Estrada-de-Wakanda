@@ -1,0 +1,4 @@
+Tamanho da estrada: 20
+Numero de cidades: 4
+Menor Vizinhaça: 3.50
+Cidade Menor Vizinhaça: L’pur
